@@ -1,2 +1,2 @@
 # ResumeWebApp
-Example API for portfolio.
+Example API to play around with.
